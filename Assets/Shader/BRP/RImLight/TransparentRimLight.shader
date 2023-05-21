@@ -39,7 +39,7 @@ Shader "Custom/TransparentRimLight"
             fixed alpha = _Alpha;
 
             o.Albedo = baseColor;
-            const float rim = 1 - (abs(dot(IN.viewDir, o.Normal)));
+            const float rim = 1 - (saturate(dot(IN.viewDir, o.Normal)));
             o.Emission = rimColor * pow(rim, powValue);
             o.Alpha = alpha;
         }
