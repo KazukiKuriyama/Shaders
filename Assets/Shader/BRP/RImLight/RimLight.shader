@@ -10,7 +10,7 @@ Shader "Custom/RimLight"
     {
         Tags
         {
-            "Queue" = "Transparent"
+            "Queue" = "Opaque"
         }
         LOD 200
 
