@@ -2,7 +2,7 @@
 
 ![image](https://github.com/KazukiKuriyama/Shaders/assets/64897247/28885ece-70d5-47a1-bbda-7935911aa6ca)
 
-![image](https://github.com/KazukiKuriyama/Shaders/assets/64897247/46fc425b-0885-499c-875b-5e254a2e5977)
+![image](https://github.com/KazukiKuriyama/Shaders/assets/64897247/dd7aa3ac-93c1-4573-b3c2-99976b879e60)
 
 ![image](https://github.com/KazukiKuriyama/Shaders/assets/64897247/542a7182-d7d4-4344-ad85-dbdadce7a2f4)
 
